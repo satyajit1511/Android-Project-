@@ -79,6 +79,15 @@
                 android:text="ADD STUDENT"
                 android:backgroundTint="#1976D2"
                 android:textStyle="bold"/>
+
+            <Button
+                android:id="@+id/btnImportCsv"
+                style="@style/Widget.MaterialComponents.Button.OutlinedButton"
+                android:layout_width="match_parent"
+                android:layout_height="48dp"
+                android:layout_marginTop="8dp"
+                android:text="IMPORT STUDENTS FROM CSV"
+                android:textStyle="bold"/>
         </LinearLayout>
     </androidx.cardview.widget.CardView>
 

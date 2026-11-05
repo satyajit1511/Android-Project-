@@ -301,4 +301,5 @@ public class DatabaseHelper extends SQLiteOpenHelper {
 
         return ((double) present / total) * 100.0;
     }
+}
 
